@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Jackie Teles! 👨‍💻✨
 
-Desde criança, desenvolvi um interesse por tecnologia, especialmente quando o meu pai me presenteou com um humilde computador. Desde então, mergulhei completamente no mundo da computação. Tenho me dedicado a aprender e aprimorar as minhas habilidades em HTML, CSS e JavaScript.
+Desde quando eu tinha os meus 6 anos de idade, eu desenvolvi um forte interesse por tecnologia, especialmente quando o meu pai me presenteou com um humilde computador. Desde então, mergulhei completamente no mundo da computação. Tenho me dedicado a aprender e aprimorar as minhas habilidades em HTML, CSS e JavaScript.
 
 ## 🌟 Meu Objetivo:
 Meu objetivo é desenvolver sites Web que não apenas sejam funcionais, mas também lindos e intuitivos para o usuário. Sempre busco me desafiar para melhorar cada vez mais.
